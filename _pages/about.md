@@ -29,6 +29,7 @@ My research interests lie in the intersection of Computer Vision and Machine Lea
 - *2025.09 - 2029.06, Ph.D. degree, School of Intelligence Science and Technology,*  ***Nanjing University.***
 - *2021.09 - 2024.06, M.S.  degree, School of Computer Science and Technology,* ***University of Chinese Academy of Sciences.***
 - *2017.09 - 2021.06, B.S.  degree, School of Electronic Information and Electrical Engineering,* ***Shanghai Jiao Tong University.***
+- <div class="paperidx">AISTATS 2024</div> *2017.09 - 2021.06, B.S.  degree, School of Electronic Information and Electrical Engineering,* ***Shanghai Jiao Tong University.***
 
 # 📝 Publications 
 
