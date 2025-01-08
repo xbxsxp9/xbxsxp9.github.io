@@ -32,7 +32,7 @@ My research interests lie in the intersection of Computer Vision and Machine Lea
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/500x300.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ReMask-Animate: Refined Character Image Animation Using Mask-Guided Adapters](https://proceedings.mlr.press/v238/xiang24a/xiang24a.pdf)
@@ -41,7 +41,7 @@ My research interests lie in the intersection of Computer Vision and Machine Lea
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AISTATS 2024</div><img src='images/500x300.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AISTATS 2024</div></div></div>
 <div class='paper-box-text' markdown="1">
   
 [A Neural Architecture Predictor based on GNN-Enhanced Transformer](https://proceedings.mlr.press/v238/xiang24a/xiang24a.pdf)
