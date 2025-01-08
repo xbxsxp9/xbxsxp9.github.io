@@ -23,7 +23,8 @@ My research interests lie in the intersection of Computer Vision and Machine Lea
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- ``KDD 2025`` [Embedding Prior Task-specific Knowledge into Language Models for Context-aware Document Ranking](), Shuting Wang, **Yutao Zhu**, and Zhicheng Dou.
 
 # 📖 Educations
 - *2025.09 - 2029.06, Ph.D. degree, School of Intelligence Science and Technology,*  ***Nanjing University.***
