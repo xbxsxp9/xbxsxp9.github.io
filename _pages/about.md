@@ -32,7 +32,7 @@ My research interests lie in the intersection of Computer Vision and Machine Lea
 
 # 📝 Publications 
 
-<div class='paper-box'>><div><div class="badge">AAAI 2025</div></div>
+<div class='paper-box'><div><div class="badge">AAAI 2025</div></div>
 <div class='paper-box-text' markdown="1">
 
 [ReMask-Animate: Refined Character Image Animation Using Mask-Guided Adapters](https://proceedings.mlr.press/v238/xiang24a/xiang24a.pdf)
