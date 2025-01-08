@@ -48,7 +48,7 @@ My research interests lie in the intersection of Computer Vision and Machine Lea
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AISTATS 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="2">
 
-[A Neural Architecture Predictor based on GNN-Enhanced Transformer](https://proceedings.mlr.press/v238/xiang24a.html)
+[A Neural Architecture Predictor based on GNN-Enhanced Transformer](https://proceedings.mlr.press/v238/xiang24a/xiang24a.pdf)
 
 **Xunzhi Xiang**, Kun Jing, Jungang Xu.
 
