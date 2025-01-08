@@ -45,6 +45,8 @@ My research interests lie in the intersection of Computer Vision and Machine Lea
 
 **Xunzhi Xiang**, Haiwei Xue, Zonghong Dai, Di wang, et al.
 
+---
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AISTATS 2024</div><img src='images/500x300.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="2">
 
