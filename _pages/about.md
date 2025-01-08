@@ -29,12 +29,10 @@ My research interests lie in the intersection of Computer Vision and Machine Lea
 - *2025.09 - 2029.06, Ph.D. degree, School of Intelligence Science and Technology,*  ***Nanjing University.***
 - *2021.09 - 2024.06, M.S.  degree, School of Computer Science and Technology,* ***University of Chinese Academy of Sciences.***
 - *2017.09 - 2021.06, B.S.  degree, School of Electronic Information and Electrical Engineering,* ***Shanghai Jiao Tong University.***
-- <div class="badge">AAAI 2025</div>[A Neural Architecture Predictor based on GNN-Enhanced Transformer](https://proceedings.mlr.press/v238/xiang24a/xiang24a.pdf)
-
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ReMask-Animate: Refined Character Image Animation Using Mask-Guided Adapters](https://proceedings.mlr.press/v238/xiang24a/xiang24a.pdf)
@@ -43,7 +41,7 @@ My research interests lie in the intersection of Computer Vision and Machine Lea
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AISTATS 2024</div></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AISTATS 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [A Neural Architecture Predictor based on GNN-Enhanced Transformer](https://proceedings.mlr.press/v238/xiang24a/xiang24a.pdf)
@@ -57,7 +55,6 @@ My research interests lie in the intersection of Computer Vision and Machine Lea
 - *2024.03 - 2024.09*, [01AI](https://www.lingyiwanwu.com/), China.
 - *2024.03 - 2024.09*, [Guangming Lab](https://www.gml.ac.cn/), China.
 - *2024.09 - 2025.03*, [HUAWEI](https://github.com/), China.
-- <div class="badge">AAAI 2025</div>[A Neural Architecture Predictor based on GNN-Enhanced Transformer](https://proceedings.mlr.press/v238/xiang24a/xiang24a.pdf)
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
