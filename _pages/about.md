@@ -29,6 +29,7 @@ My research interests lie in the intersection of ***Computer Vision and Machine 
 # 📝 Publications 
 - <span class="paperidx">AAAI 2025</span> [ReMask-Animate: Refined Character Image Animation Using Mask-Guided Adapters](https://xbxsxp9.github.io/). ***Xunzhi Xiang***, Haiwei Xue, Zonghong Dai, et al. 
 - <span class="paperidx">AISTATS 2024</span> [A Neural Architecture Predictor based on GNN-Enhanced Transformer](https://xbxsxp9.github.io/). ***Xunzhi Xiang***, Kun Jing, Jungang Xu, et al.
+- <font color=red>红色</font>
   
 # 🔥 Preprints 
 - <span class="paperidx">ArXiv 2024</span> [ClothAnimate: Boosting Video Virtual Try-on via Novel Attention-control Diffusion Model](https://xbxsxp9.github.io/). Xin Zhang, ***Xunzhi Xiang***, Siting Huang, Yifan Xie, Xiangyang Luo, Tao Feng, Fei Ma.
