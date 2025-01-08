@@ -27,12 +27,10 @@ My research interests lie in the intersection of ***Computer Vision and Machine 
 - *2017.09 - 2021.06, B.S.  degree, School of Electronic Information and Electrical Engineering,* ***Shanghai Jiao Tong University.***
 
 # 📝 Publications 
-------
 - <span class="paperidx">AAAI 2025</span> [ReMask-Animate: Refined Character Image Animation Using Mask-Guided Adapters](https://xbxsxp9.github.io/). ***Xunzhi Xiang***, Haiwei Xue, Zonghong Dai, et al. 
 - <span class="paperidx">AISTATS 2024</span> [A Neural Architecture Predictor based on GNN-Enhanced Transformer](https://xbxsxp9.github.io/). ***Xunzhi Xiang***, Kun Jing, Jungang Xu, et al.
   
 # 🔥 Preprints 
-------
 - <span class="paperidx">ArXiv 2024</span> [ClothAnimate: Boosting Video Virtual Try-on via Novel Attention-control Diffusion Model](https://xbxsxp9.github.io/). Xin Zhang, ***Xunzhi Xiang***, Siting Huang, Yifan Xie, Xiangyang Luo, Tao Feng, Fei Ma.
 - <span class="paperidx">ArXiv 2024</span> [DPD: A Dual Prompt Distillation Method for Vision-Language Models](https://xbxsxp9.github.io/). Di Wang, ***Xunzhi Xiang***, Yiyu Wang, Jungang Xu.
 - <span class="paperidx">TPAMI 2025</span> [Human Motion Video Generation: A Survey](https://xbxsxp9.github.io/). *Haiwei Xue, Xiangyang Luo, Zhannghao Hu, Xin Zhang,* ***Xunzhi Xiang***, *Yuqing dai, Jianzhuang Liu, Zhensong Zhang, Minglei Li, Jian Yang, Fei Ma, Changpeng Yang, Zonghong Dai, and Fei Richard Yu.
