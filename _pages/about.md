@@ -21,35 +21,22 @@ I am a first-year Phd student of R&L Group at Nanjing University (NJU), under th
 
 My research interests lie in the intersection of Computer Vision and Machine Learning. From 2021, I started to do some research on Neural architecture search and image caption. Now, I focus on designing novel applications for image/video generation, 3D autoregressive-generation. and other downstream AIGC tasks.
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-
 # 📖 Educations
 - *2025.09 - 2029.06, Ph.D. degree, School of Intelligence Science and Technology,*  ***Nanjing University.***
 - *2021.09 - 2024.06, M.S.  degree, School of Computer Science and Technology,* ***University of Chinese Academy of Sciences.***
 - *2017.09 - 2021.06, B.S.  degree, School of Electronic Information and Electrical Engineering,* ***Shanghai Jiao Tong University.***
-- <span class="paperidx">AISTATS 2024</span> 2017.09 - 2021.06, B.S. degree, School of Electronic Information and Electrical Engineering, ***Shanghai Jiao Tong University.***
 
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[ReMask-Animate: Refined Character Image Animation Using Mask-Guided Adapters](https://proceedings.mlr.press/v238/xiang24a/xiang24a.pdf)
-
-**Xunzhi Xiang**, Haiwei Xue, Zonghong Dai, Di wang, et al.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AISTATS 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+------
+- <span class="paperidx">AAAI 2025</span> ***Xunzhi Xiang***, *Haiwei Xue, Zonghong Dai, et al. ReMask-Animate: Refined Character Image Animation Using Mask-Guided Adapters[C]*. ***AAAI Conference on Artificial Intelligence(AAAI)***, 2025.
+- <span class="paperidx">AISTATS 2024</span> ***Xunzhi Xiang***, *Kun Jing, Jungang Xu, et al. A Neural Architecture Predictor based on GNN-Enhanced Transformer[C]*. ***International Conference on Artificial Intelligence and Statistics (AISTATS)***, 2024.
   
-[A Neural Architecture Predictor based on GNN-Enhanced Transformer](https://proceedings.mlr.press/v238/xiang24a/xiang24a.pdf)
+# 🔥 Preprints 
+------
+- <span class="paperidx">Arxiv</span> *Xin Zhang*, ***Xunzhi Xiang***, *Siting Huang, Yifan Xie, Xiangyang Luo, Tao Feng, Fei Ma. ClothAnimate: Boosting Video Virtual Try-on via Novel Attention-control Diffusion Model[C].*
+- <span class="paperidx">Arxiv</span> *Di Wang*, ***Xunzhi Xiang***, *Yiyu Wang, Jungang Xu. DPD: A Dual Prompt Distillation Method for Vision-Language Models[C]*
+- <span class="paperidx">TPAMI 2025</span> *Haiwei Xue, Xiangyang Luo, Zhannghao Hu, Xin Zhang,* ***Xunzhi Xiang***, *Yuqing dai, Jianzhuang Liu, Zhensong Zhang, Minglei Li, Jian Yang, Fei Ma, Changpeng Yang, Zonghong Dai, and Fei Richard Yu. Human Motion Video Generation: A Survey[J]*
 
-**Xunzhi Xiang**, Kun Jing, Jungang Xu.
-</div>
-</div>
 
 # 💻 Internships
 - *2023.08 - 2023.11*, [a4x](https://cn.a4x.io/), China.
