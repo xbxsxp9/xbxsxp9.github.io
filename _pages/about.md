@@ -44,7 +44,8 @@ My research interests lie in the intersection of Computer Vision and Machine Lea
 [ReMask-Animate: Refined Character Image Animation Using Mask-Guided Adapters]()
 
 **Xunzhi Xiang**, Haiwei Xue, Zonghong Dai, Di wang, et al.
-
+</div>
+</div>
 ---
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AISTATS 2024</div><img src='images/500x300.png' alt="sym" width="70%"></div></div>
@@ -53,7 +54,8 @@ My research interests lie in the intersection of Computer Vision and Machine Lea
 [A Neural Architecture Predictor based on GNN-Enhanced Transformer]()
 
 **Xunzhi Xiang**, Kun Jing, Jungang Xu.
-
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
