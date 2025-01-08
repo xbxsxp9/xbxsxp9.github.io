@@ -28,14 +28,14 @@ My research interests lie in the intersection of Computer Vision and Machine Lea
 
 # 📝 Publications 
 ------
-- <span class="paperidx">AAAI 2025</span> ***Xunzhi Xiang***, *Haiwei Xue, Zonghong Dai, et al. ReMask-Animate: Refined Character Image Animation Using Mask-Guided Adapters[C]*. ***AAAI Conference on Artificial Intelligence(AAAI)***, 2025.
-- <span class="paperidx">AISTATS 2024</span> ***Xunzhi Xiang***, *Kun Jing, Jungang Xu, et al. A Neural Architecture Predictor based on GNN-Enhanced Transformer[C]*. ***International Conference on Artificial Intelligence and Statistics (AISTATS)***, 2024.
+- <span class="paperidx">AAAI 2025</span> ***Xunzhi Xiang***, Haiwei Xue, Zonghong Dai, et al. [ReMask-Animate: Refined Character Image Animation Using Mask-Guided Adapters](https://xbxsxp9.github.io/). 
+- <span class="paperidx">AISTATS 2024</span> ***Xunzhi Xiang***, Kun Jing, Jungang Xu, et al. [A Neural Architecture Predictor based on GNN-Enhanced Transformer](https://xbxsxp9.github.io/). 
   
 # 🔥 Preprints 
 ------
-- <span class="paperidx">Arxiv</span> *Xin Zhang*, ***Xunzhi Xiang***, *Siting Huang, Yifan Xie, Xiangyang Luo, Tao Feng, Fei Ma. ClothAnimate: Boosting Video Virtual Try-on via Novel Attention-control Diffusion Model[C].*
-- <span class="paperidx">Arxiv</span> *Di Wang*, ***Xunzhi Xiang***, *Yiyu Wang, Jungang Xu. DPD: A Dual Prompt Distillation Method for Vision-Language Models[C]*
-- <span class="paperidx">TPAMI 2025</span> *Haiwei Xue, Xiangyang Luo, Zhannghao Hu, Xin Zhang,* ***Xunzhi Xiang***, *Yuqing dai, Jianzhuang Liu, Zhensong Zhang, Minglei Li, Jian Yang, Fei Ma, Changpeng Yang, Zonghong Dai, and Fei Richard Yu. Human Motion Video Generation: A Survey[J]*
+- <span class="paperidx">ArXiv 2024</span> Xin Zhang, ***Xunzhi Xiang***, Siting Huang, Yifan Xie, Xiangyang Luo, Tao Feng, Fei Ma. [ClothAnimate: Boosting Video Virtual Try-on via Novel Attention-control Diffusion Model](https://xbxsxp9.github.io/).
+- <span class="paperidx">ArXiv 2024</span> Di Wang, ***Xunzhi Xiang***, Yiyu Wang, Jungang Xu. [DPD: A Dual Prompt Distillation Method for Vision-Language Models](https://xbxsxp9.github.io/).
+- <span class="paperidx">TPAMI 2025</span> *Haiwei Xue, Xiangyang Luo, Zhannghao Hu, Xin Zhang,* ***Xunzhi Xiang***, *Yuqing dai, Jianzhuang Liu, Zhensong Zhang, Minglei Li, Jian Yang, Fei Ma, Changpeng Yang, Zonghong Dai, and Fei Richard Yu. [Human Motion Video Generation: A Survey](https://xbxsxp9.github.io/).
 
 
 # 💻 Internships
