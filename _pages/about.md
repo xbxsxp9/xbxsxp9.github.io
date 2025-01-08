@@ -24,7 +24,6 @@ My research interests lie in the intersection of Computer Vision and Machine Lea
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- ``KDD 2025`` [Embedding Prior Task-specific Knowledge into Language Models for Context-aware Document Ranking](), Shuting Wang, **Yutao Zhu**, and Zhicheng Dou.
 
 # 📖 Educations
 - *2025.09 - 2029.06, Ph.D. degree, School of Intelligence Science and Technology,*  ***Nanjing University.***
@@ -33,7 +32,7 @@ My research interests lie in the intersection of Computer Vision and Machine Lea
 
 # 📝 Publications 
 
-<div class='paper-box'><div><div class="badge">AAAI 2025</div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div></div>
 <div class='paper-box-text' markdown="1">
 
 [ReMask-Animate: Refined Character Image Animation Using Mask-Guided Adapters](https://proceedings.mlr.press/v238/xiang24a/xiang24a.pdf)
@@ -56,7 +55,8 @@ My research interests lie in the intersection of Computer Vision and Machine Lea
 - *2024.03 - 2024.09*, [01AI](https://www.lingyiwanwu.com/), China.
 - *2024.03 - 2024.09*, [Guangming Lab](https://www.gml.ac.cn/), China.
 - *2024.09 - 2025.03*, [HUAWEI](https://github.com/), China.
-- 
+- <div class="badge">AAAI 2025</div>[A Neural Architecture Predictor based on GNN-Enhanced Transformer](https://proceedings.mlr.press/v238/xiang24a/xiang24a.pdf)
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
