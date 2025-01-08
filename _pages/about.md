@@ -30,12 +30,6 @@ My research interests lie in the intersection of Computer Vision and Machine Lea
 - *2021.09 - 2024.06, M.S.  degree, School of Computer Science and Technology,* ***University of Chinese Academy of Sciences.***
 - *2017.09 - 2021.06, B.S.  degree, School of Electronic Information and Electrical Engineering,* ***Shanghai Jiao Tong University.***
 
-# 💻 Internships
-- *2023.08 - 2023.11*, [a4x](https://cn.a4x.io/), China.
-- *2024.03 - 2024.09*, [01AI](https://www.lingyiwanwu.com/), China.
-- *2024.03 - 2024.09*, [Guangming Lab](https://www.gml.ac.cn/), China.
-- *2024.09 - 2025.03*, [HUAWEI](https://github.com/), China.
-
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/500x300.png' alt="sym" width="70%"></div></div>
@@ -56,6 +50,12 @@ My research interests lie in the intersection of Computer Vision and Machine Lea
 </div>
 </div>
 
+# 💻 Internships
+- *2023.08 - 2023.11*, [a4x](https://cn.a4x.io/), China.
+- *2024.03 - 2024.09*, [01AI](https://www.lingyiwanwu.com/), China.
+- *2024.03 - 2024.09*, [Guangming Lab](https://www.gml.ac.cn/), China.
+- *2024.09 - 2025.03*, [HUAWEI](https://github.com/), China.
+- 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
