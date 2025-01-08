@@ -38,14 +38,14 @@ My research interests lie in the intersection of Computer Vision and Machine Lea
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/500x300.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ReMask-Animate: Refined Character Image Animation Using Mask-Guided Adapters](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 **Xunzhi Xiang**, Haiwei Xue, Zonghong Dai, Di wang, et al.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AISTATS 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AISTATS 2024</div><img src='images/500x300.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="2">
 
 [A Neural Architecture Predictor based on GNN-Enhanced Transformer](https://proceedings.mlr.press/v238/xiang24a/xiang24a.pdf)
