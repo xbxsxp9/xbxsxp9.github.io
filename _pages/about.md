@@ -33,7 +33,7 @@ My research interests lie in the intersection of ***Computer Vision and Machine 
   
 # 🔥 Preprints 
 - <span class="paperidx">ArXiv 2025</span> [Make It Efficient: Dynamic Sparse Attention for Autoregressive Image Generation](https://xbxsxp9.github.io/). <font color=blue><strong><em>Xunzhi Xiang</em></strong></font>, Qi Fan.
-- <span class="paperidx">ArXiv 2025</span> [SmartSAM: Segment Ambiguious Objects like Smart Annotaters](https://xbxsxp9.github.io/). <font color=blue>Zhe Gao, <strong><em>Xunzhi Xiang</em></strong></font>, Siyu Shen, Wenbin Li, Yang Gao, Qi Fan.
+- <span class="paperidx">ArXiv 2025</span> [SmartSAM: Segment Ambiguious Objects like Smart Annotaters](https://xbxsxp9.github.io/). Zhe Gao, <font color=blue><strong><em>Xunzhi Xiang</em></strong></font>, Siyu Shen, Wenbin Li, Yang Gao, Qi Fan.
 - <span class="paperidx">ArXiv 2025</span> [DON’T NEED RETRAINING: A Mixture of DETR and Vision Foundation Models for Cross-Domain Few-Shot Object Detection](https://xbxsxp9.github.io/). Chang-han Li, <font color=blue><strong><em>Xunzhi Xiang</em></strong></font>, Zixuan Duan, Wenbin Li, Yang Gao, Qi Fan.
 - <span class="paperidx">ArXiv 2025</span> [Proteus-ID: ID-Consistent and Motion-Enhanced Video Customization](https://xbxsxp9.github.io/). Guiyu Zhang, Chen Shi, Zijian Jiang, <font color=blue><strong><em>Xunzhi Xiang</em></strong></font>, Jingjing Qian, Shaoshuai Shi, Li Jiang.
 - <span class="paperidx">ArXiv 2024</span> [DPD: A Dual Prompt Distillation Method for Vision-Language Models](https://xbxsxp9.github.io/). Di Wang, <font color=blue><strong><em>Xunzhi Xiang</em></strong></font>, Yiyu Wang, Jungang Xu.
