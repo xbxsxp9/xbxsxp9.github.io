@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Phd Candidate of ***R&L Group at Nanjing University (NJU)***, under the supervision of Prof. ***Qi Fan***. I obtained my M.S. in Computer Science at ***the University of Chinese Academy of Sciences*** in 2024 and B.S at ***Shanghai Jiao Tong University*** in 2021. I was also fortunate to be an internship at 01AI, Huawei.
+I am a Phd Candidate of ***R&L Group at Nanjing University (NJU)***, under the supervision of Prof. ***Qi Fan***[homepage](https://fanq15.github.io/). I obtained my M.S. in Computer Science at ***the University of Chinese Academy of Sciences*** in 2024 and B.S at ***Shanghai Jiao Tong University*** in 2021. I was also fortunate to be an internship at 01AI, Huawei.
 
 My research interests lie in the intersection of ***Computer Vision and Machine Learning***. From 2021, I started to do some research on Neural architecture search and image caption. Now, I focus on designing novel applications for ***image/video generation, 3D autoregressive-generation*** and other downstream AIGC tasks. Welcome to the [Zhihu homepage](https://zhuanlan.zhihu.com/p/10593629023) for academic discussions in the field of image/video generation.
 
