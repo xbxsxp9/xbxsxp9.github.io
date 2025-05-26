@@ -56,9 +56,9 @@ My research interests lie in the intersection of ***Computer Vision and Machine 
 # 💻 Internships
 - *2024.03 - 2024.09*, [01AI](https://www.lingyiwanwu.com/), China.
 - *2024.03 - 2024.09*, [Guangming-Lab](https://www.gml.ac.cn/), China.
-- *2024.09 - 2025.03*, [HUAWEI](https://github.com/), China.
-- *2025.05 - up-to-now*, [Kuaishou-Kling](https://github.com/), China.
-- *2025.05 - up-to-now*, [TeleAI](https://github.com/), China.
+- *2024.09 - 2025.03*, [HUAWEI](https://www.huawei.com/cn/), China.
+- *2025.05 - up-to-now*, [TeleAI](https://www.teleai.com/), China.
+- *2025.05 - up-to-now*, [Kuaishou-Kling](https://app.klingai.com/cn/), China.
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
