@@ -32,11 +32,11 @@ My research interests lie in the intersection of ***Computer Vision and Machine 
   <img src="./Kling_icon.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">
   **Kuaishou-Kling**, Basic Visual Generation Group, as a research intern.
 - *2025.05*: &nbsp;🎓🎓 I joined
-  <img src="./teleai_icon" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">
+  <img src="./teleai_icon.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">
   **TeleAI**, Video Generation Group, as a research intern.
 - *2024.12*: &nbsp;🎉🎉 One paper accepted to **AAAI 2024**.
 - *2024.09*: &nbsp;🎓🎓 I joined
-  <img src="./huawei_icon" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">
+  <img src="./huawei_icon.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">
   **Huawei**, 3D Generation Group, as a researcher.
 - *2024.01*: &nbsp;🎉🎉 One paper accepted to **AISTATS 2024**.
 
@@ -57,8 +57,8 @@ My research interests lie in the intersection of ***Computer Vision and Machine 
 - *2024.03 - 2024.09*, [01AI](https://www.lingyiwanwu.com/), China.
 - *2024.03 - 2024.09*, [Guangming-Lab](https://www.gml.ac.cn/), China.
 - *2024.09 - 2025.03*, [HUAWEI](https://github.com/), China.
-- *2025.05 - 2025.09*, [Kuaishou-Kling](https://github.com/), China.
-- *2025.05 - 2025.09*, [TeleAI](https://github.com/), China.
+- *2025.05 - up-to-now*, [Kuaishou-Kling](https://github.com/), China.
+- *2025.05 - up-to-now*, [TeleAI](https://github.com/), China.
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
