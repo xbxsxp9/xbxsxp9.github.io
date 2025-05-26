@@ -40,8 +40,9 @@ My research interests lie in the intersection of ***Computer Vision and Machine 
 - <span class="paperidx">TPAMI 2025</span> [Human Motion Video Generation: A Survey](https://xbxsxp9.github.io/). Haiwei Xue, Xiangyang Luo, Zhannghao Hu, Xin Zhang, <font color=blue><strong><em>Xunzhi Xiang</em></strong></font>, Yuqing dai, Jianzhuang Liu, Zhensong Zhang, Minglei Li, Jian Yang, Fei Ma, Changpeng Yang, Zonghong Dai, and Fei Richard Yu.
 
 # 💻 Internships
-- *2023.08 - 2023.11*, [a4x](https://cn.a4x.io/), China.
 - *2024.03 - 2024.09*, [01AI](https://www.lingyiwanwu.com/), China.
 - *2024.03 - 2024.09*, [Guangming Lab](https://www.gml.ac.cn/), China.
 - *2024.09 - 2025.03*, [HUAWEI](https://github.com/), China.
+- *2025.05 - up-to-now*, [Kuaishou Kling](https://github.com/), China.
+- *2025.05 - up-to-now*, [TeleAI](https://github.com/), China.
 
