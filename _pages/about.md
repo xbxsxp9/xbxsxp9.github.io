@@ -43,6 +43,6 @@ My research interests lie in the intersection of ***Computer Vision and Machine 
 - *2024.03 - 2024.09*, [01AI](https://www.lingyiwanwu.com/), China.
 - *2024.03 - 2024.09*, [Guangming Lab](https://www.gml.ac.cn/), China.
 - *2024.09 - 2025.03*, [HUAWEI](https://github.com/), China.
-- *2025.05 - now*, [Kuaishou Kling](https://github.com/), China.
-- *2025.05 - now*, [TeleAI](https://github.com/), China.
+- *2025.05 - 2025.09*, [Kuaishou Kling](https://github.com/), China.
+- *2025.05 - 2025.09*, [TeleAI](https://github.com/), China.
 
