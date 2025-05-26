@@ -22,9 +22,9 @@ I am a Phd Candidate of ***R&L Group at Nanjing University (NJU)***, under the s
 My research interests lie in the intersection of ***Computer Vision and Machine Learning***. From 2021, I started to do some research on Neural architecture search and image caption. Now, I focus on designing novel applications for ***image/video generation, 3D autoregressive-generation*** and other downstream AIGC tasks. Welcome to the [Zhihu homepage](https://zhuanlan.zhihu.com/p/10593629023) for academic discussions in the field of image/video generation.
 
 # 📖 Educations
-- *2024.10 - up-to-now, Phd, School of Intelligence Science and Technology,*  ***Nanjing University.***
-- *2021.09 - 2024.06, M.S.  degree, School of Computer Science and Technology,* ***University of Chinese Academy of Sciences.***
-- *2017.09 - 2021.06, B.S.  degree, School of Electronic Information and Electrical Engineering,* ***Shanghai Jiao Tong University.***
+- *2024.10 - up-to-now, Phd, School of Intelligence Science and Technology,*  ***Nanjing University.*** <img src="./images/nju_1em.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">
+- *2021.09 - 2024.06, M.S.  degree, School of Computer Science and Technology,* ***University of Chinese Academy of Sciences.*** <img src="./images/ucas_1em.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">
+- *2017.09 - 2021.06, B.S.  degree, School of Electronic Information and Electrical Engineering,* ***Shanghai Jiao Tong University.*** <img src="./images/sjtu_1em.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">
 
 # 🎉 News
 - *2025.05*: &nbsp;🎓🎓 I joined 
