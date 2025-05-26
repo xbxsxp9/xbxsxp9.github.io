@@ -27,8 +27,11 @@ My research interests lie in the intersection of ***Computer Vision and Machine 
 - *2017.09 - 2021.06, B.S.  degree, School of Electronic Information and Electrical Engineering,* ***Shanghai Jiao Tong University.***
 
 # 🎉 News
+- *2025.05*: &nbsp;🎓🎓 I joined 
+  <img src="./Kuaishou.png" alt="Kuaishou" height="16" style="vertical-align: text-bottom;"> 
+  <img src="./Kling.png" alt="Kling" height="16" style="vertical-align: text-bottom;"> 
+  **Kuaishou-Kling**, Basic Visual Generation Group, as a research intern.
 - *2025.05*: &nbsp;🎓🎓 I joined TeleAI, Video Generation Group, as a research intern.
-- *2025.05*: &nbsp;🎓🎓 I joined ![Kuaishou Logo](./Kuaishou) ![Kling Logo](./Kling.png) **Kuaishou-Kling**, Basic Visual Generation Group, as a research intern.
 - *2024.12*: &nbsp;🎉🎉 One paper accepted to AAAI 2024.
 - *2024.01*: &nbsp;🎉🎉 One paper accepted to AISTATS 2024.
 
