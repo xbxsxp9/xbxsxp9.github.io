@@ -28,8 +28,8 @@ My research interests lie in the intersection of ***Computer Vision and Machine 
 
 # 🎉 News
 - *2025.05*: &nbsp;🎓🎓 I joined 
-  <img src="./Kuaishou.png" alt="Kuaishou" height="16" style="vertical-align: text-bottom;"> 
-  <img src="./Kling.png" alt="Kling" height="16" style="vertical-align: text-bottom;"> 
+  <img src="./Kuaishou.png" alt="Kuaishou" height="2" style="vertical-align: text-bottom;"> 
+  <img src="./Kling.png" alt="Kling" height="2" style="vertical-align: text-bottom;"> 
   **Kuaishou-Kling**, Basic Visual Generation Group, as a research intern.
 - *2025.05*: &nbsp;🎓🎓 I joined TeleAI, Video Generation Group, as a research intern.
 - *2024.12*: &nbsp;🎉🎉 One paper accepted to AAAI 2024.
