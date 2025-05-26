@@ -31,9 +31,14 @@ My research interests lie in the intersection of ***Computer Vision and Machine 
   <img src="./Kuaishou_icon.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">
   <img src="./Kling_icon.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">
   **Kuaishou-Kling**, Basic Visual Generation Group, as a research intern.
-- *2025.05*: &nbsp;🎓🎓 I joined TeleAI, Video Generation Group, as a research intern.
-- *2024.12*: &nbsp;🎉🎉 One paper accepted to AAAI 2024.
-- *2024.01*: &nbsp;🎉🎉 One paper accepted to AISTATS 2024.
+- *2025.05*: &nbsp;🎓🎓 I joined
+  <img src="./teleai_icon" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">
+  **TeleAI**, Video Generation Group, as a research intern.
+- *2024.12*: &nbsp;🎉🎉 One paper accepted to **AAAI 2024**.
+- *2024.09*: &nbsp;🎓🎓 I joined
+  <img src="./huawei_icon" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">
+  **Huawei**, 3D Generation Group, as a researcher.
+- *2024.01*: &nbsp;🎉🎉 One paper accepted to **AISTATS 2024**.
 
 # 📝 Publications 
 - <span class="paperidx">AAAI 2025</span> [ReMask-Animate: Refined Character Image Animation Using Mask-Guided Adapters](https://xbxsxp9.github.io/). <font color=blue><strong><em>Xunzhi Xiang</em></strong></font>, Haiwei Xue, Zonghong Dai, et al. 
