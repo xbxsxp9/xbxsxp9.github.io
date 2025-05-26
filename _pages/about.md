@@ -26,6 +26,10 @@ My research interests lie in the intersection of ***Computer Vision and Machine 
 - *2021.09 - 2024.06, M.S.  degree, School of Computer Science and Technology,* ***University of Chinese Academy of Sciences.***
 - *2017.09 - 2021.06, B.S.  degree, School of Electronic Information and Electrical Engineering,* ***Shanghai Jiao Tong University.***
 
+# 🎉 News
+- *2024.12*: &nbsp;🎉🎉 One paper accepted to AAAI 2024.
+- *2024.01*: &nbsp;🎉🎉 One paper accepted to AISTATS 2024.
+
 # 📝 Publications 
 - <span class="paperidx">AAAI 2025</span> [ReMask-Animate: Refined Character Image Animation Using Mask-Guided Adapters](https://xbxsxp9.github.io/). <font color=blue><strong><em>Xunzhi Xiang</em></strong></font>, Haiwei Xue, Zonghong Dai, et al. 
 - <span class="paperidx">AISTATS 2024</span> [A Neural Architecture Predictor based on GNN-Enhanced Transformer](https://xbxsxp9.github.io/). <font color=blue><strong><em>Xunzhi Xiang</em></strong></font>
@@ -45,4 +49,8 @@ My research interests lie in the intersection of ***Computer Vision and Machine 
 - *2024.09 - 2025.03*, [HUAWEI](https://github.com/), China.
 - *2025.05 - 2025.09*, [Kuaishou-Kling](https://github.com/), China.
 - *2025.05 - 2025.09*, [TeleAI](https://github.com/), China.
+
+# 🎖 Honors and Awards
+- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
