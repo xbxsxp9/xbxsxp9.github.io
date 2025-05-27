@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Phd Candidate of ***R&L Group at Nanjing University (NJU)***, under the supervision of Prof. ***Qi Fan*** [-- homepage](https://fanq15.github.io/). I obtained my M.S. in Computer Science at ***the University of Chinese Academy of Sciences*** in 2024 and B.S at ***Shanghai Jiao Tong University*** in 2021. I was also fortunate to be an internship at 01AI, Huawei <img src="./huawei_icon.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">, TeleAI <img src="./teleai_icon.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">, Kuaishou <img src="./Kuaishou_icon.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;"><img src="./Kling_icon.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">.
+I am a Phd Candidate of ***R&L Group at Nanjing University (NJU)***, under the supervision of Prof. ***Qi Fan*** [-- homepage](https://fanq15.github.io/). I obtained my M.S. in Computer Science at ***the University of Chinese Academy of Sciences*** in 2024 and B.S at ***Shanghai Jiao Tong University*** in 2021. I was also fortunate to be an internship at 01AI <img src="./images/01AI.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">, Huawei <img src="./huawei_icon.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">, TeleAI <img src="./teleai_icon.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">, Kuaishou <img src="./Kuaishou_icon.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;"><img src="./Kling_icon.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">.
 
 My research interests lie in the intersection of ***Computer Vision and Machine Learning***. From 2021, I started to do some research on Neural architecture search and image caption. Now, I focus on designing novel applications for ***image/video generation, 3D autoregressive-generation*** and other downstream AIGC tasks. Welcome to the [Zhihu homepage](https://zhuanlan.zhihu.com/p/10593629023) for academic discussions in the field of image/video generation.
 
@@ -38,6 +38,9 @@ My research interests lie in the intersection of ***Computer Vision and Machine 
 - *2024.09*: &nbsp;🎓🎓 I joined
   <img src="./huawei_icon.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">
   **Huawei**, 3D Generation Group, as a researcher.
+- *2024.03*: &nbsp;🎓🎓 I joined
+  <img src="./images/01AI.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">
+  **01AI**, Video Generation Group, as a research intern.
 - *2024.01*: &nbsp;🎉🎉 One paper accepted to **AISTATS 2024**.
 
 # 📝 Publications 
