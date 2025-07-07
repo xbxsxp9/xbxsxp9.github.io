@@ -22,12 +22,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Xunzhi Xiang"
-  avatar           : "images/708.jpg"
+  avatar           : "images/IMG_2265.JPG"
   bio              : "AIGC, multimodal generation"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=r7_y3wEAAAAJ&hl=zh-CN"
   email            : "xbxsxp@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
