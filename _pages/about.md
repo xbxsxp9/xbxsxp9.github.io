@@ -49,6 +49,7 @@ My research interests lie in the intersection of ***Computer Vision and Machine 
 , Kun Jing, Jungang Xu, et al.
   
 # 🔥 Preprints 
+- <span class="paperidx">ArXiv 2025</span> [Anchor Forcing: Leveraging Anchor Frames for Parallelized Long Video Generation.](https://xbxsxp9.github.io/). <font color=blue><strong><em>Xunzhi Xiang</em></strong></font>, Yabo Chen, Guiyu Zhang, Qi Fan.
 - <span class="paperidx">ArXiv 2025</span> [Make It Efficient: Dynamic Sparse Attention for Autoregressive Image Generation](https://arxiv.org/abs/2506.18226). <font color=blue><strong><em>Xunzhi Xiang</em></strong></font>, Qi Fan.
 - <span class="paperidx">ArXiv 2025</span> [Proteus-ID: ID-Consistent and Motion-Enhanced Video Customization](https://arxiv.org/abs/2506.23729). Guiyu Zhang, Chen Shi, Zijian Jiang, <font color=blue><strong><em>Xunzhi Xiang</em></strong></font>, Jingjing Qian, Shaoshuai Shi, Li Jiang.
 - <span class="paperidx">ArXiv 2025</span> [SmartSAM: Segment Ambiguious Objects like Smart Annotaters](https://xbxsxp9.github.io/). Zhe Gao, <font color=blue><strong><em>Xunzhi Xiang</em></strong></font>, Siyu Shen, Wenbin Li, Yang Gao, Qi Fan.
