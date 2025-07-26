@@ -47,6 +47,7 @@ My research interests lie in the intersection of ***Computer Vision and Machine 
 - <span class="paperidx">AAAI 2025</span> [ReMask-Animate: Refined Character Image Animation Using Mask-Guided Adapters](https://ojs.aaai.org/index.php/AAAI/article/view/32932). <font color=blue><strong><em>Xunzhi Xiang</em></strong></font>, Haiwei Xue, Zonghong Dai, et al. 
 - <span class="paperidx">AISTATS 2024</span> [A Neural Architecture Predictor based on GNN-Enhanced Transformer](https://proceedings.mlr.press/v238/xiang24a.html). <font color=blue><strong><em>Xunzhi Xiang</em></strong></font>
 , Kun Jing, Jungang Xu, et al.
+- <span class="paperidx">TPAMI 2025</span> [Human Motion Video Generation: A Survey](https://xbxsxp9.github.io/). Haiwei Xue, Xiangyang Luo, Zhannghao Hu, Xin Zhang, <font color=blue><strong><em>Xunzhi Xiang</em></strong></font>, Yuqing dai, Jianzhuang Liu, Zhensong Zhang, Minglei Li, Jian Yang, Fei Ma, Changpeng Yang, Zonghong Dai, and Fei Richard Yu.
   
 # 🔥 Preprints 
 - <span class="paperidx">ArXiv 2025</span> [Anchor Forcing: Leveraging Anchor Frames for Parallelized Long Video Generation.](https://xbxsxp9.github.io/). <font color=blue><strong><em>Xunzhi Xiang</em></strong></font>, Yabo Chen, Guiyu Zhang, Qi Fan.
@@ -55,7 +56,6 @@ My research interests lie in the intersection of ***Computer Vision and Machine 
 - <span class="paperidx">ArXiv 2025</span> [SmartSAM: Segment Ambiguious Objects like Smart Annotaters](https://xbxsxp9.github.io/). Zhe Gao, <font color=blue><strong><em>Xunzhi Xiang</em></strong></font>, Siyu Shen, Wenbin Li, Yang Gao, Qi Fan.
 - <span class="paperidx">ArXiv 2025</span> [DON’T NEED RETRAINING: A Mixture of DETR and Vision Foundation Models for Cross-Domain Few-Shot Object Detection](https://xbxsxp9.github.io/). Chang-han Liu, <font color=blue><strong><em>Xunzhi Xiang</em></strong></font>, Zixuan Duan, Wenbin Li, Yang Gao, Qi Fan.
 - <span class="paperidx">ArXiv 2024</span> [DPD: A Dual Prompt Distillation Method for Vision-Language Models](https://xbxsxp9.github.io/). Di Wang, <font color=blue><strong><em>Xunzhi Xiang</em></strong></font>, Yiyu Wang, Jungang Xu.
-- <span class="paperidx">TPAMI 2025</span> [Human Motion Video Generation: A Survey](https://xbxsxp9.github.io/). Haiwei Xue, Xiangyang Luo, Zhannghao Hu, Xin Zhang, <font color=blue><strong><em>Xunzhi Xiang</em></strong></font>, Yuqing dai, Jianzhuang Liu, Zhensong Zhang, Minglei Li, Jian Yang, Fei Ma, Changpeng Yang, Zonghong Dai, and Fei Richard Yu.
 
 # 💻 Internships
 - *2024.03 - 2024.09*, [01AI](https://www.lingyiwanwu.com/), China.
