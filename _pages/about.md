@@ -27,13 +27,13 @@ My research interests lie in the intersection of ***Computer Vision and Machine 
 - *2017.09 - 2021.06, B.S.  degree, School of Electronic Information and Electrical Engineering,* ***Shanghai Jiao Tong University.*** <img src="./images/sjtu_1em.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">
 
 # 🎉 News
-- *2025.05*: &nbsp;🎓🎓 I joined 
+- *2025.07*: &nbsp;🎓🎓 I joined 
   <img src="./Kuaishou_icon.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">
   <img src="./Kling_icon.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">
   **Kuaishou-Kling**, Basic Visual Generation Group, as a research intern.
 - *2025.05*: &nbsp;🎓🎓 I joined
   <img src="./teleai_icon.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">
-  **TeleAI(Remote)**, Video Generation Group, as a remote research intern.
+  **TeleAI**, Video Generation Group, as a remote research intern.
 - *2024.12*: &nbsp;🎉🎉 One paper accepted to **AAAI 2025**.
 - *2024.09*: &nbsp;🎓🎓 I joined
   <img src="./huawei_icon.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">
@@ -61,8 +61,8 @@ My research interests lie in the intersection of ***Computer Vision and Machine 
 - *2024.03 - 2024.09*, [01AI](https://www.lingyiwanwu.com/), China.
 - *2024.03 - 2024.09*, [Guangming-Lab](https://www.gml.ac.cn/), China.
 - *2024.09 - 2025.03*, [HUAWEI](https://www.huawei.com/cn/), China.
-- *2025.05 - up-to-now(Remote)*, [TeleAI](https://www.teleai.com/), China.
-- *2025.05 - up-to-now*, [Kuaishou-Kling](https://app.klingai.com/cn/), China.
+- *2025.05 - 2025.07*, [TeleAI](https://www.teleai.com/), China.
+- *2025.07 - up-to-now*, [Kuaishou-Kling](https://app.klingai.com/cn/), China.
 
 # 🎖 Honors and Awards
 - *2021.10* CCF-BDCI award. 
