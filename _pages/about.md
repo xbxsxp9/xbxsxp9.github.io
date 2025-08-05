@@ -52,9 +52,9 @@ My research interests lie in the intersection of ***Computer Vision and Machine 
 # 🔥 Preprints 
 - <span class="paperidx">ArXiv 2025</span> [Macro-from-Micro Planning for High-Quality and Parallelized Autoregressive Long Video Generation](https://nju-xunzhixiang.github.io/Anchor-Forcing-Page/). <font color=blue><strong><em>Xunzhi Xiang</em></strong></font>, Yabo Chen, Guiyu Zhang, Qi Fan.
 - <span class="paperidx">ArXiv 2025</span> [Make It Efficient: Dynamic Sparse Attention for Autoregressive Image Generation](https://arxiv.org/abs/2506.18226). <font color=blue><strong><em>Xunzhi Xiang</em></strong></font>, Qi Fan.
-- <span class="paperidx">ArXiv 2025</span> [Proteus-ID: ID-Consistent and Motion-Enhanced Video Customization](https://arxiv.org/abs/2506.23729). Guiyu Zhang, Chen Shi, Zijian Jiang, <font color=blue><strong><em>Xunzhi Xiang</em></strong></font>, Jingjing Qian, Shaoshuai Shi, Li Jiang.
-- <span class="paperidx">ArXiv 2025</span> [SmartSAM: Segment Ambiguious Objects like Smart Annotaters](https://xbxsxp9.github.io/). Zhe Gao, <font color=blue><strong><em>Xunzhi Xiang</em></strong></font>, Siyu Shen, Wenbin Li, Yang Gao, Qi Fan.
 - <span class="paperidx">ArXiv 2025</span> [DON’T NEED RETRAINING: A Mixture of DETR and Vision Foundation Models for Cross-Domain Few-Shot Object Detection](https://xbxsxp9.github.io/). Chang-han Liu, <font color=blue><strong><em>Xunzhi Xiang</em></strong></font>, Zixuan Duan, Wenbin Li, Yang Gao, Qi Fan.
+- <span class="paperidx">ArXiv 2025</span> [SmartSAM: Segment Ambiguious Objects like Smart Annotaters](https://xbxsxp9.github.io/). Zhe Gao, <font color=blue><strong><em>Xunzhi Xiang</em></strong></font>, Siyu Shen, Wenbin Li, Yang Gao, Qi Fan.
+- <span class="paperidx">ArXiv 2025</span> [Proteus-ID: ID-Consistent and Motion-Enhanced Video Customization](https://arxiv.org/abs/2506.23729). Guiyu Zhang, Chen Shi, Zijian Jiang, <font color=blue><strong><em>Xunzhi Xiang</em></strong></font>, Jingjing Qian, Shaoshuai Shi, Li Jiang.
 - <span class="paperidx">ArXiv 2024</span> [DPD: A Dual Prompt Distillation Method for Vision-Language Models](https://xbxsxp9.github.io/). Di Wang, <font color=blue><strong><em>Xunzhi Xiang</em></strong></font>, Yiyu Wang, Jungang Xu.
 
 # 💻 Internships
