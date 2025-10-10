@@ -27,17 +27,39 @@ My research interests lie in the intersection of ***Computer Vision and Machine 
 - *2017.09 - 2021.06, B.S.  degree, School of Electronic Information and Electrical Engineering,* ***Shanghai Jiao Tong University.*** <img src="./images/sjtu_1em.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/500x300.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[ReMask-Animate: Refined Character Image Animation Using Mask-Guided Adapters](https://ojs.aaai.org/index.php/AAAI/article/view/32932)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Xunzhi Xiang**, Haiwei Xue, Zonghong Dai, et al. 
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://scholar.google.com/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AISTATS 2025</div><img src='images/500x300.png' alt="sym" width="70%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Neural Architecture Predictor based on GNN-Enhanced Transformer](https://proceedings.mlr.press/v238/xiang24a.html)
+
+**Xunzhi Xiang**, Kun Jing, Jungang Xu.
+
+[**Project**](https://scholar.google.com/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/500x300.png' alt="sym" width="70%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DON’T NEED RETRAINING: A Mixture of DETR and Vision Foundation Models for Cross-Domain Few-Shot Object Detection](https://xbxsxp9.github.io/)
+
+Chang-han Liu, <font color=blue><strong><em>Xunzhi Xiang</em></strong></font>, Zixuan Duan, Wenbin Li, Yang Gao, Qi Fan.
+
+[**Project**](https://scholar.google.com/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
 
 - <span class="paperidx">AAAI 2025</span> [ReMask-Animate: Refined Character Image Animation Using Mask-Guided Adapters](https://ojs.aaai.org/index.php/AAAI/article/view/32932). <font color=blue><strong><em>Xunzhi Xiang</em></strong></font>, Haiwei Xue, Zonghong Dai, et al. 
 - <span class="paperidx">AISTATS 2024</span> [A Neural Architecture Predictor based on GNN-Enhanced Transformer](https://proceedings.mlr.press/v238/xiang24a.html). <font color=blue><strong><em>Xunzhi Xiang</em></strong></font>
