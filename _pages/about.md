@@ -32,7 +32,7 @@ My research interests lie in the intersection of ***Computer Vision and Machine 
 
 [ReMask-Animate: Refined Character Image Animation Using Mask-Guided Adapters](https://ojs.aaai.org/index.php/AAAI/article/view/32932)
 
-**Xunzhi Xiang**, Haiwei Xue, Zonghong Dai, et al. 
+**Xunzhi Xiang**, Haiwei Xue, Zonghong Dai, Di Wang, Minglei Li, Ye Yue, Fei Ma, Weijiang Yu, Heng Chang, Fei Richard Yu.
 
 [**Project**](https://scholar.google.com/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
@@ -88,7 +88,7 @@ Haiwei Xue, Xiangyang Luo, Zhannghao Hu, Xin Zhang, **Xunzhi Xiang**, Yuqing dai
 
 [Macro-from-Micro Planning for High-Quality and Parallelized Autoregressive Long Video Generation](https://nju-xunzhixiang.github.io/Anchor-Forcing-Page/)
 
-**Xunzhi Xiang**, Yabo Chen, Guiyu Zhang, Qi Fan.
+**Xunzhi Xiang**, Yabo Chen, Guiyu Zhang, Zhongyu Wang, Zhe Gao, Quanming Xiang, Gonghu Shang, Junqi Liu, Haibin Huang, Yang Gao, Chi Zhang, Qi Fan, et al. 
 
 [**Project**]([https://scholar.google.com/](https://nju-xunzhixiang.github.io/Anchor-Forcing-Page/)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
