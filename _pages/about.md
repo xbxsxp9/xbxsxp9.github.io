@@ -27,7 +27,7 @@ My research interests lie in the intersection of ***Computer Vision and Machine 
 - *2017.09 - 2021.06, B.S.  degree, School of Electronic Information and Electrical Engineering,* ***Shanghai Jiao Tong University.*** <img src="./images/sjtu_1em.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/500x300.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/500x300.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ReMask-Animate: Refined Character Image Animation Using Mask-Guided Adapters](https://ojs.aaai.org/index.php/AAAI/article/view/32932)
@@ -38,7 +38,7 @@ My research interests lie in the intersection of ***Computer Vision and Machine 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AISTATS 2025</div><img src='images/500x300.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AISTATS 2025</div><img src='images/500x300.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Neural Architecture Predictor based on GNN-Enhanced Transformer](https://proceedings.mlr.press/v238/xiang24a.html)
@@ -49,30 +49,62 @@ My research interests lie in the intersection of ***Computer Vision and Machine 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/500x300.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/500x300.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DON’T NEED RETRAINING: A Mixture of DETR and Vision Foundation Models for Cross-Domain Few-Shot Object Detection](https://xbxsxp9.github.io/)
 
-Chang-han Liu, <font color=blue><strong><em>Xunzhi Xiang</em></strong></font>, Zixuan Duan, Wenbin Li, Yang Gao, Qi Fan.
+Chang-han Liu, **Xunzhi Xiang**, Zixuan Duan, Wenbin Li, Yang Gao, Qi Fan.
 
 [**Project**](https://scholar.google.com/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/500x300.png' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-- <span class="paperidx">AAAI 2025</span> [ReMask-Animate: Refined Character Image Animation Using Mask-Guided Adapters](https://ojs.aaai.org/index.php/AAAI/article/view/32932). <font color=blue><strong><em>Xunzhi Xiang</em></strong></font>, Haiwei Xue, Zonghong Dai, et al. 
-- <span class="paperidx">AISTATS 2024</span> [A Neural Architecture Predictor based on GNN-Enhanced Transformer](https://proceedings.mlr.press/v238/xiang24a.html). <font color=blue><strong><em>Xunzhi Xiang</em></strong></font>
-, Kun Jing, Jungang Xu, et al.
-- <span class="paperidx">NeurIPS 2025</span> [DON’T NEED RETRAINING: A Mixture of DETR and Vision Foundation Models for Cross-Domain Few-Shot Object Detection](https://xbxsxp9.github.io/). Chang-han Liu, <font color=blue><strong><em>Xunzhi Xiang</em></strong></font>, Zixuan Duan, Wenbin Li, Yang Gao, Qi Fan.
-- <span class="paperidx">TPAMI 2025</span> [Human Motion Video Generation: A Survey](https://xbxsxp9.github.io/). Haiwei Xue, Xiangyang Luo, Zhannghao Hu, Xin Zhang, <font color=blue><strong><em>Xunzhi Xiang</em></strong></font>, Yuqing dai, Jianzhuang Liu, Zhensong Zhang, Minglei Li, Jian Yang, Fei Ma, Changpeng Yang, Zonghong Dai, and Fei Richard Yu.
-- <span class="paperidx">Siggraph-Asia 2025</span> [Proteus-ID: ID-Consistent and Motion-Enhanced Video Customization](https://arxiv.org/abs/2506.23729). Guiyu Zhang, Chen Shi, Zijian Jiang, <font color=blue><strong><em>Xunzhi Xiang</em></strong></font>, Jingjing Qian, Shaoshuai Shi, Li Jiang.
-  
+[Proteus-ID: ID-Consistent and Motion-Enhanced Video Customization](https://arxiv.org/abs/2506.23729)
+
+Guiyu Zhang, Chen Shi, Zijian Jiang, **Xunzhi Xiang**, Jingjing Qian, Shaoshuai Shi, Li Jiang.
+
+[**Project**](https://scholar.google.com/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/500x300.png' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Human Motion Video Generation: A Survey](https://xbxsxp9.github.io/)
+
+Haiwei Xue, Xiangyang Luo, Zhannghao Hu, Xin Zhang, **Xunzhi Xiang**, Yuqing dai, Jianzhuang Liu, Zhensong Zhang, Minglei Li, Jian Yang, Fei Ma, Changpeng Yang, Zonghong Dai, and Fei Richard Yu.
+
+[**Project**](https://scholar.google.com/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
 # 🔥 Preprints 
-- <span class="paperidx">ArXiv 2025</span> [Macro-from-Micro Planning for High-Quality and Parallelized Autoregressive Long Video Generation](https://nju-xunzhixiang.github.io/Anchor-Forcing-Page/). <font color=blue><strong><em>Xunzhi Xiang</em></strong></font>, Yabo Chen, Guiyu Zhang, Qi Fan.
-- <span class="paperidx">ArXiv 2025</span> [Make It Efficient: Dynamic Sparse Attention for Autoregressive Image Generation](https://arxiv.org/abs/2506.18226). <font color=blue><strong><em>Xunzhi Xiang</em></strong></font>, Qi Fan.
-- <span class="paperidx">ArXiv 2025</span> [SmartSAM: Segment Ambiguious Objects like Smart Annotaters](https://xbxsxp9.github.io/). Zhe Gao, <font color=blue><strong><em>Xunzhi Xiang</em></strong></font>, Siyu Shen, Wenbin Li, Yang Gao, Qi Fan.
-- <span class="paperidx">ArXiv 2024</span> [DPD: A Dual Prompt Distillation Method for Vision-Language Models](https://xbxsxp9.github.io/). Di Wang, <font color=blue><strong><em>Xunzhi Xiang</em></strong></font>, Yiyu Wang, Jungang Xu.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/500x300.png' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Macro-from-Micro Planning for High-Quality and Parallelized Autoregressive Long Video Generation](https://nju-xunzhixiang.github.io/Anchor-Forcing-Page/)
+
+**Xunzhi Xiang**, Yabo Chen, Guiyu Zhang, Qi Fan.
+
+[**Project**]([https://scholar.google.com/](https://nju-xunzhixiang.github.io/Anchor-Forcing-Page/)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/500x300.png' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Make It Efficient: Dynamic Sparse Attention for Autoregressive Image Generation](https://arxiv.org/abs/2506.18226)
+
+**Xunzhi Xiang**, Qi Fan.
+
+[**Project**](https://scholar.google.com/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
 
 # 💻 Internships
 - *2024.03 - 2024.09*, [01AI](https://www.lingyiwanwu.com/), China.
