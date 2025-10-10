@@ -60,7 +60,7 @@ Chang-han Liu, **Xunzhi Xiang**, Zixuan Duan, Wenbin Li, Yang Gao, Qi Fan.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/survey.jpg' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2025</div><img src='images/survey.jpg' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Proteus-ID: ID-Consistent and Motion-Enhanced Video Customization](https://arxiv.org/abs/2506.23729)
