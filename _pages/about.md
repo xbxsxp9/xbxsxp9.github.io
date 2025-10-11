@@ -45,18 +45,19 @@ Chang-han Liu, **Xunzhi Xiang**, Zixuan Duan, Wenbin Li, Yang Gao, Qi Fan.
 
 Guiyu Zhang, Chen Shi, Zijian Jiang, **Xunzhi Xiang**, Jingjing Qian, Shaoshuai Shi, Li Jiang.
 
-[**Project**](https://scholar.google.com/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**]([https://scholar.google.com/](https://arxiv.org/abs/2506.23729)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**]([https://scholar.google.com/](https://grenoble-zhang.github.io/Proteus-ID/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/survey.jpg' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Human Motion Video Generation: A Survey](https://xbxsxp9.github.io/)
+[Human Motion Video Generation: A Survey](https://arxiv.org/pdf/2509.03883)
 
 Haiwei Xue, Xiangyang Luo, Zhannghao Hu, Xin Zhang, **Xunzhi Xiang**, Yuqing dai, Jianzhuang Liu, Zhensong Zhang, Minglei Li, Jian Yang, Fei Ma, Changpeng Yang, Zonghong Dai, and Fei Richard Yu.
 
-[**Project**](https://scholar.google.com/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](https://arxiv.org/pdf/2509.03883) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
@@ -67,7 +68,7 @@ Haiwei Xue, Xiangyang Luo, Zhannghao Hu, Xin Zhang, **Xunzhi Xiang**, Yuqing dai
 
 **Xunzhi Xiang**, Haiwei Xue, Zonghong Dai, Di Wang, Minglei Li, Ye Yue, Fei Ma, Weijiang Yu, Heng Chang, Fei Richard Yu.
 
-[**Project**](https://scholar.google.com/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/32932) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
@@ -90,7 +91,8 @@ Haiwei Xue, Xiangyang Luo, Zhannghao Hu, Xin Zhang, **Xunzhi Xiang**, Yuqing dai
 
 **Xunzhi Xiang**, Yabo Chen, Guiyu Zhang, Zhongyu Wang, Zhe Gao, Quanming Xiang, Gonghu Shang, Junqi Liu, Haibin Huang, Yang Gao, Chi Zhang, Qi Fan, et al. 
 
-[**Project**]([https://scholar.google.com/](https://nju-xunzhixiang.github.io/Anchor-Forcing-Page/)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](https://arxiv.org/abs/2508.03334) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'>
+[**Project**](https://nju-xunzhixiang.github.io/Anchor-Forcing-Page/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
@@ -101,7 +103,29 @@ Haiwei Xue, Xiangyang Luo, Zhannghao Hu, Xin Zhang, **Xunzhi Xiang**, Yuqing dai
 
 **Xunzhi Xiang**, Qi Fan.
 
-[**Project**](https://scholar.google.com/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](https://arxiv.org/abs/2506.18226) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/makeit.jpg' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SmartSAM: Segment Ambiguous Objects like Smart Annotators](https://xbxsxp9.github.io/)
+
+Zhe Gao, Shiyu Shen, **Xunzhi Xiang**, Wenbin Li, Yang Gao, Qi Fan .
+
+[**Paper**](https://xbxsxp9.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/makeit.jpg' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[HERA: Efficient Test-Time Adaptation for Cross-Domain Few-Shot Segmentation with Vision Foundation Models](https://xbxsxp9.github.io/)
+
+Junyuan Ma, **Xunzhi Xiang**, Wenbin Li, Yang Gao, Qi Fan  .
+
+[**Paper**](https://xbxsxp9.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
