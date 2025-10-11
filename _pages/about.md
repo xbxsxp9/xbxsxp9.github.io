@@ -107,7 +107,7 @@ Haiwei Xue, Xiangyang Luo, Zhannghao Hu, Xin Zhang, **Xunzhi Xiang**, Yuqing dai
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/makeit.jpg' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/smart.jpg' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SmartSAM: Segment Ambiguous Objects like Smart Annotators](https://xbxsxp9.github.io/)
@@ -118,7 +118,7 @@ Zhe Gao, Shiyu Shen, **Xunzhi Xiang**, Wenbin Li, Yang Gao, Qi Fan .
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/makeit.jpg' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/hera.jpg' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HERA: Efficient Test-Time Adaptation for Cross-Domain Few-Shot Segmentation with Vision Foundation Models](https://xbxsxp9.github.io/)
