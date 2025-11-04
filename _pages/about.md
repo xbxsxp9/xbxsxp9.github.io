@@ -84,6 +84,18 @@ Haiwei Xue, Xiangyang Luo, Zhannghao Hu, Xin Zhang, **Xunzhi Xiang**, Yuqing dai
 </div>
 
 # 🔥 Preprints 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/DenoisingVAE.jpg' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Denoising Vision Transformer Autoencoder with Spectral Regularization](https://arxiv.org/abs/2506.18226)
+
+**Xunzhi Xiang**, Xingye Tian, Guiyu Zhang, Yabo Chen, Xin Tao, Pengfei Wan, Qi Fan.
+
+[**Paper**](https://arxiv.org/abs/2506.18226) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/MMPL.jpg' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
