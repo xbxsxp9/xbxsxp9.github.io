@@ -26,64 +26,7 @@ My research interests lie in the intersection of ***Computer Vision and Machine 
 - *2021.09 - 2024.06, M.S.  degree, School of Computer Science and Technology,* ***University of Chinese Academy of Sciences.*** <img src="./images/ucas_1em.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">
 - *2017.09 - 2021.06, B.S.  degree, School of Electronic Information and Electrical Engineering,* ***Shanghai Jiao Tong University.*** <img src="./images/sjtu_1em.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">
 
-# 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/dont.jpg' alt="sym" width="90%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[DON’T NEED RETRAINING: A Mixture of DETR and Vision Foundation Models for Cross-Domain Few-Shot Object Detection](https://neurips.cc/virtual/2025/poster/119868)
-
-Chang-han Liu, **Xunzhi Xiang**, Zixuan Duan, Wenbin Li, Yang Gao, Qi Fan.
-
-[**Paper**](https://neurips.cc/virtual/2025/poster/119868) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2025</div><img src='images/ps.jpg' alt="sym" width="90%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Proteus-ID: ID-Consistent and Motion-Enhanced Video Customization](https://arxiv.org/abs/2506.23729)
-
-Guiyu Zhang, Chen Shi, Zijian Jiang, **Xunzhi Xiang**, Jingjing Qian, Shaoshuai Shi, Li Jiang.
-
-[**Paper**](https://arxiv.org/abs/2506.23729) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-[**Project**](https://grenoble-zhang.github.io/Proteus-ID/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/survey.jpg' alt="sym" width="90%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Human Motion Video Generation: A Survey](https://arxiv.org/pdf/2509.03883)
-
-Haiwei Xue, Xiangyang Luo, Zhannghao Hu, Xin Zhang, **Xunzhi Xiang**, Yuqing dai, Jianzhuang Liu, Zhensong Zhang, Minglei Li, Jian Yang, Fei Ma, Changpeng Yang, Zonghong Dai, and Fei Richard Yu.
-
-[**Paper**](https://arxiv.org/pdf/2509.03883) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/remask.jpg' alt="sym" width="90%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[ReMask-Animate: Refined Character Image Animation Using Mask-Guided Adapters](https://ojs.aaai.org/index.php/AAAI/article/view/32932)
-
-**Xunzhi Xiang**, Haiwei Xue, Zonghong Dai, Di Wang, Minglei Li, Ye Yue, Fei Ma, Weijiang Yu, Heng Chang, Fei Richard Yu.
-
-[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/32932) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AISTATS 2025</div><img src='images/gnet.jpg' alt="sym" width="90%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[A Neural Architecture Predictor based on GNN-Enhanced Transformer](https://proceedings.mlr.press/v238/xiang24a.html)
-
-**Xunzhi Xiang**, Kun Jing, Jungang Xu.
-
-[**Paper**](https://proceedings.mlr.press/v238/xiang24a.html) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-</div>
-</div>
-
-# 🔥 Preprints 
+# 📝 Publications/Preprints - main contribution
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/DenoisingVAE.jpg' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -116,6 +59,64 @@ Haiwei Xue, Xiangyang Luo, Zhannghao Hu, Xin Zhang, **Xunzhi Xiang**, Yuqing dai
 **Xunzhi Xiang**, Qi Fan.
 
 [**Paper**](https://arxiv.org/abs/2506.18226) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/remask.jpg' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ReMask-Animate: Refined Character Image Animation Using Mask-Guided Adapters](https://ojs.aaai.org/index.php/AAAI/article/view/32932)
+
+**Xunzhi Xiang**, Haiwei Xue, Zonghong Dai, Di Wang, Minglei Li, Ye Yue, Fei Ma, Weijiang Yu, Heng Chang, Fei Richard Yu.
+
+[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/32932) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AISTATS 2025</div><img src='images/gnet.jpg' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Neural Architecture Predictor based on GNN-Enhanced Transformer](https://proceedings.mlr.press/v238/xiang24a.html)
+
+**Xunzhi Xiang**, Kun Jing, Jungang Xu.
+
+[**Paper**](https://proceedings.mlr.press/v238/xiang24a.html) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
+# 🔥 Publications/Preprints - participating contribution
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/dont.jpg' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DON’T NEED RETRAINING: A Mixture of DETR and Vision Foundation Models for Cross-Domain Few-Shot Object Detection](https://neurips.cc/virtual/2025/poster/119868)
+
+Chang-han Liu, **Xunzhi Xiang**, Zixuan Duan, Wenbin Li, Yang Gao, Qi Fan.
+
+[**Paper**](https://neurips.cc/virtual/2025/poster/119868) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2025</div><img src='images/ps.jpg' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Proteus-ID: ID-Consistent and Motion-Enhanced Video Customization](https://arxiv.org/abs/2506.23729)
+
+Guiyu Zhang, Chen Shi, Zijian Jiang, **Xunzhi Xiang**, Jingjing Qian, Shaoshuai Shi, Li Jiang.
+
+[**Paper**](https://arxiv.org/abs/2506.23729) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://grenoble-zhang.github.io/Proteus-ID/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/survey.jpg' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Human Motion Video Generation: A Survey](https://arxiv.org/pdf/2509.03883)
+
+Haiwei Xue, Xiangyang Luo, Zhannghao Hu, Xin Zhang, **Xunzhi Xiang**, Yuqing dai, Jianzhuang Liu, Zhensong Zhang, Minglei Li, Jian Yang, Fei Ma, Changpeng Yang, Zonghong Dai, and Fei Richard Yu.
+
+[**Paper**](https://arxiv.org/pdf/2509.03883) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
