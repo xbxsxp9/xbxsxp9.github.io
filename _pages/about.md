@@ -142,14 +142,6 @@ Junyuan Ma, **Xunzhi Xiang**, Wenbin Li, Yang Gao, Qi Fan  .
 </div>
 </div>
 
-
-# 💻 Internships
-- *2024.03 - 2024.09*, [01AI](https://www.lingyiwanwu.com/), China.
-- *2024.03 - 2024.09*, [Guangming-Lab](https://www.gml.ac.cn/), China.
-- *2024.09 - 2025.03*, [HUAWEI](https://www.huawei.com/cn/), China.
-- *2025.04 - 2025.06*, [TeleAI](https://www.teleai.com/), China.
-- *2025.06 - up-to-now*, [Kuaishou-Kling](https://app.klingai.com/cn/), China.
-
 # 🎖 Honors and Awards
 - *2021.10* CCF-BDCI award. 
 
