@@ -27,6 +27,18 @@ My research interests lie in the intersection of ***Computer Vision and Machine 
 - *2017.09 - 2021.06, B.S.  degree, School of Electronic Information and Electrical Engineering,* ***Shanghai Jiao Tong University.*** <img src="./images/sjtu_1em.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">
 
 # 📝 Publications/Preprints - main contribution
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/DenoisingVAE.jpg' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Few-Step Video Diffusion Plans Semantics Early: Pathwise Test-Time Optimization along the Sampling Trajectory](https://arxiv.org/abs/2511.12633)
+
+**Xunzhi Xiang**, Zixuan Duan, Guiyu Zhang, Haiyu Zhang, Zhe Gao, Junta Wu, Shaofeng Zhang, Tengfei Wang, Qi Fan, Chunchao Guo.
+
+[**Paper**](https://arxiv.org/abs/2511.12633) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report 2025</div><img src='images/TeleWorld.jpg' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
