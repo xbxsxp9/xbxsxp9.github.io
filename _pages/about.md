@@ -154,7 +154,7 @@ Zhe Gao, Shiyu Shen, **Xunzhi Xiang**, Wenbin Li, Yang Gao, Qi Fan .
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div></div></div>
+<div class='paper-box'><div><div class="badge">ArXiv 2025</div></div>
 <div class='paper-box-text' markdown="1">
 
 [HERA: Efficient Test-Time Adaptation for Cross-Domain Few-Shot Segmentation with Vision Foundation Models](https://xbxsxp9.github.io/)
