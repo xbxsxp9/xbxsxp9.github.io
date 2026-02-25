@@ -108,63 +108,8 @@ TeleWorld Team.
 </div>
 </div>
 
+
 # 🔥 Publications/Preprints - participating contribution
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/dont.jpg' alt="sym" width="90%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[DON’T NEED RETRAINING: A Mixture of DETR and Vision Foundation Models for Cross-Domain Few-Shot Object Detection](https://neurips.cc/virtual/2025/poster/119868)
-
-Chang-han Liu, **Xunzhi Xiang**, Zixuan Duan, Wenbin Li, Yang Gao, Qi Fan.
-
-[**Paper**](https://neurips.cc/virtual/2025/poster/119868) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2025</div><img src='images/ps.jpg' alt="sym" width="90%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Proteus-ID: ID-Consistent and Motion-Enhanced Video Customization](https://arxiv.org/abs/2506.23729)
-
-Guiyu Zhang, Chen Shi, Zijian Jiang, **Xunzhi Xiang**, Jingjing Qian, Shaoshuai Shi, Li Jiang.
-
-[**Paper**](https://arxiv.org/abs/2506.23729) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-[**Project**](https://grenoble-zhang.github.io/Proteus-ID/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/survey.jpg' alt="sym" width="90%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Human Motion Video Generation: A Survey](https://arxiv.org/pdf/2509.03883)
-
-Haiwei Xue, Xiangyang Luo, Zhannghao Hu, Xin Zhang, **Xunzhi Xiang**, Yuqing dai, Jianzhuang Liu, Zhensong Zhang, Minglei Li, Jian Yang, Fei Ma, Changpeng Yang, Zonghong Dai, and Fei Richard Yu.
-
-[**Paper**](https://arxiv.org/pdf/2509.03883) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/smart.jpg' alt="sym" width="90%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[SmartSAM: Segment Ambiguous Objects like Smart Annotators](https://xbxsxp9.github.io/)
-
-Zhe Gao, Shiyu Shen, **Xunzhi Xiang**, Wenbin Li, Yang Gao, Qi Fan .
-
-[**Paper**](https://xbxsxp9.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/hera.jpg' alt="sym" width="90%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[HERA: Efficient Test-Time Adaptation for Cross-Domain Few-Shot Segmentation with Vision Foundation Models](https://xbxsxp9.github.io/)
-
-Junyuan Ma, **Xunzhi Xiang**, Wenbin Li, Yang Gao, Qi Fan.
-
-[**Paper**](https://xbxsxp9.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-</div>
-</div>
-
 <ul class="paper-list">
 
   <li>
@@ -184,7 +129,7 @@ Junyuan Ma, **Xunzhi Xiang**, Wenbin Li, Yang Gao, Qi Fan.
   </li>
 
   <li>
-    <span class="badge-arxiv">ICLR 2026 Poster</span>
+    <span class="badge-arxiv">ICLR 2026</span>
     <a href="#" class="paper-title">
     Retain and Adapt: Auto-Balanced Model Editing for Open-Vocabulary Object Detection under Domain Shifts</a>.
     Zixuan Duan, Fengyuan Lu, <strong>Xunzhi Xiang</strong>, Wenbin Li, Yang Gao, Qi Fan.
@@ -192,7 +137,7 @@ Junyuan Ma, **Xunzhi Xiang**, Wenbin Li, Yang Gao, Qi Fan.
   </li>
 
   <li>
-    <span class="badge-arxiv">ICLR 2026 Poster</span>
+    <span class="badge-arxiv">ICLR 2026</span>
     <a href="#" class="paper-title">
     QPrompt-R1: Real-Time Reasoning for Domain-Generalized Semantic Segmentation via Group-Relative Query Alignment</a>.
     Fengyuan Lu, Zixuan Duan, <strong>Xunzhi Xiang</strong>, Zhicheng Zhang, Wenbin Li, Yang Gao, Qi Fan.
