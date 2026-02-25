@@ -112,7 +112,7 @@ My research interests lie in the intersection of ***Computer Vision and Machine 
     <a href="#" class="paper-title">
     Retain and Adapt: Auto-Balanced Model Editing for Open-Vocabulary Object Detection under Domain Shifts</a>.
     Zixuan Duan, Fengyuan Lu, <strong>Xunzhi Xiang</strong>, Wenbin Li, Yang Gao, Qi Fan.
-    [<a href="#">paper</a>]
+    [<a href="https://openreview.net/pdf?id=4fOGZWupMM">paper</a>]
   </li>
 
   <li>
@@ -120,7 +120,7 @@ My research interests lie in the intersection of ***Computer Vision and Machine 
     <a href="#" class="paper-title">
     QPrompt-R1: Real-Time Reasoning for Domain-Generalized Semantic Segmentation via Group-Relative Query Alignment</a>.
     Fengyuan Lu, Zixuan Duan, <strong>Xunzhi Xiang</strong>, Zhicheng Zhang, Wenbin Li, Yang Gao, Qi Fan.
-    [<a href="#">paper</a>]
+    [<a href="https://openreview.net/pdf?id=Vttn6pCwut">paper</a>]
   </li>
 
   <li>
