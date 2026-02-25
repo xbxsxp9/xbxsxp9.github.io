@@ -164,6 +164,8 @@ Junyuan Ma, **Xunzhi Xiang**, Wenbin Li, Yang Gao, Qi Fan.
 </div>
 </div>
 
+- ``KSEM`` [Improving Image Captioning with Image Concepts of Words](https://link.springer.com/chapter/10.1007/978-981-97-5495-3_27). Yiyu Wang, **Xunzhi Xiang** (Co-first author), Kun Jing, Jungang Xu, Yingfei Sun. _Proceedings of International Conference on Knowledge Science, Engineering and Management (KSEM)_, 2024
+
 # 🎖 Honors and Awards
 - *2021.10* CCF-BDCI award. 
 
