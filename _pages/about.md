@@ -166,11 +166,48 @@ Junyuan Ma, **Xunzhi Xiang**, Wenbin Li, Yang Gao, Qi Fan.
 </div>
 
 <ul class="paper-list">
+
   <li>
-    <span class="badge-arxiv">ArXiv</span> 
-    <a href="https://xbxsxp9.github.io" class="paper-title">ComfyUI-R1: Exploring Reasoning Models for Workflow Generation</a>. 
-    Zhenran Xu, <strong>Yiyu Wang</strong>, Xue Yang, Longyue Wang, Weihua Luo, Kaifu Zhang, Baotian Hu, Min Zhang. 
+    <span class="badge-neurips">NeurIPS 2025</span>
+    <a href="https://neurips.cc/virtual/2025/poster/119868" class="paper-title">
+    DON’T NEED RETRAINING: A Mixture of DETR and Vision Foundation Models for Cross-Domain Few-Shot Object Detection</a>. 
+    Chang-han Liu, <strong>Xunzhi Xiang</strong>, Zixuan Duan, Wenbin Li, Yang Gao, Qi Fan.
+    [<a href="https://neurips.cc/virtual/2025/poster/119868">paper</a>]
   </li>
+
+  <li>
+    <span class="badge-siggraph">SIGGRAPH 2025</span>
+    <a href="https://arxiv.org/abs/2506.23729" class="paper-title">
+    Proteus-ID: ID-Consistent and Motion-Enhanced Video Customization</a>. 
+    Guiyu Zhang, Chen Shi, Zijian Jiang, <strong>Xunzhi Xiang</strong>, Jingjing Qian, Shaoshuai Shi, Li Jiang.
+    [<a href="https://arxiv.org/abs/2506.23729">paper</a>]
+    [<a href="https://grenoble-zhang.github.io/Proteus-ID/">project</a>]
+  </li>
+
+  <li>
+    <span class="badge-journal">TPAMI 2025</span>
+    <a href="https://arxiv.org/pdf/2509.03883" class="paper-title">
+    Human Motion Video Generation: A Survey</a>. 
+    Haiwei Xue, Xiangyang Luo, Zhanghao Hu, Xin Zhang, <strong>Xunzhi Xiang</strong>, Yuqing Dai, Jianzhuang Liu, Zhensong Zhang, Minglei Li, Jian Yang, Fei Ma, Changpeng Yang, Zonghong Dai, Fei Richard Yu.
+    [<a href="https://arxiv.org/pdf/2509.03883">paper</a>]
+  </li>
+
+  <li>
+    <span class="badge-arxiv">ArXiv 2025</span>
+    <a href="https://xbxsxp9.github.io/" class="paper-title">
+    SmartSAM: Segment Ambiguous Objects like Smart Annotators</a>. 
+    Zhe Gao, Shiyu Shen, <strong>Xunzhi Xiang</strong>, Wenbin Li, Yang Gao, Qi Fan.
+    [<a href="https://xbxsxp9.github.io/">paper</a>]
+  </li>
+
+  <li>
+    <span class="badge-arxiv">ArXiv 2025</span>
+    <a href="https://xbxsxp9.github.io/" class="paper-title">
+    HERA: Efficient Test-Time Adaptation for Cross-Domain Few-Shot Segmentation with Vision Foundation Models</a>. 
+    Junyuan Ma, <strong>Xunzhi Xiang</strong>, Wenbin Li, Yang Gao, Qi Fan.
+    [<a href="https://xbxsxp9.github.io/">paper</a>]
+  </li>
+
 </ul>
 
 # 🎖 Honors and Awards
