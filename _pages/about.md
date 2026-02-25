@@ -27,87 +27,66 @@ My research interests lie in the intersection of ***Computer Vision and Machine 
 - *2017.09 - 2021.06, B.S.  degree, School of Electronic Information and Electrical Engineering,* ***Shanghai Jiao Tong University.*** <img src="./images/sjtu_1em.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">
 
 # 📝 Publications/Preprints - main contribution
+<ul class="paper-list">
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2026</div><img src='images/TTO.jpg' alt="sym" width="90%"></div></div>
-<div class='paper-box-text' markdown="1">
+  <li>
+    <span class="badge-arxiv">ArXiv 2026</span>
+    <a href="https://arxiv.org/abs/2602.05871" class="paper-title">
+    Pathwise Test-Time Correction for Autoregressive Long Video Generation</a>.
+    <strong>Xunzhi Xiang</strong>, Zixuan Duan, Guiyu Zhang, Haiyu Zhang, Zhe Gao, Junta Wu, Shaofeng Zhang, Tengfei Wang, Qi Fan, Chunchao Guo.
+    [<a href="https://arxiv.org/abs/2602.05871">paper</a>]
+  </li>
 
-[Pathwise Test-Time Correction for Autoregressive Long Video Generation](https://arxiv.org/abs/2602.05871)
+  <li>
+    <span class="badge-arxiv">Technical Report 2025</span>
+    <a href="https://arxiv.org/abs/2601.00051" class="paper-title">
+    TeleWorld: Towards Dynamic Multimodal Synthesis with a 4D World Mode</a>.
+    TeleWorld Team.
+    [<a href="https://arxiv.org/abs/2601.00051">paper</a>]
+  </li>
 
-**Xunzhi Xiang**, Zixuan Duan, Guiyu Zhang, Haiyu Zhang, Zhe Gao, Junta Wu, Shaofeng Zhang, Tengfei Wang, Qi Fan, Chunchao Guo.
+  <li>
+    <span class="badge-arxiv">ArXiv 2025</span>
+    <a href="https://arxiv.org/abs/2511.12633" class="paper-title">
+    Denoising Vision Transformer Autoencoder with Spectral Regularization</a>.
+    <strong>Xunzhi Xiang</strong>, Xingye Tian, Guiyu Zhang, Yabo Chen, Shaofeng Zhang, Xuebo Wang, Xin Tao, Qi Fan.
+    [<a href="https://arxiv.org/abs/2511.12633">paper</a>]
+  </li>
 
-[**Paper**](https://arxiv.org/abs/2511.12633) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-</div>
-</div>
+  <li>
+    <span class="badge-arxiv">ArXiv 2025</span>
+    <a href="https://arxiv.org/abs/2508.03334" class="paper-title">
+    Macro-from-Micro Planning for High-Quality and Parallelized Autoregressive Long Video Generation</a>.
+    <strong>Xunzhi Xiang</strong>, Yabo Chen, Guiyu Zhang, Zhongyu Wang, Zhe Gao, Quanming Xiang, Gonghu Shang, Junqi Liu, Haibin Huang, Yang Gao, Chi Zhang, Qi Fan, et al.
+    [<a href="https://arxiv.org/abs/2508.03334">paper</a>]
+    [<a href="https://nju-xunzhixiang.github.io/Anchor-Forcing-Page/">project</a>]
+  </li>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report 2025</div><img src='images/TeleWorld.jpg' alt="sym" width="90%"></div></div>
-<div class='paper-box-text' markdown="1">
+  <li>
+    <span class="badge-arxiv">ArXiv 2025</span>
+    <a href="https://arxiv.org/abs/2506.18226" class="paper-title">
+    Make It Efficient: Dynamic Sparse Attention for Autoregressive Image Generation</a>.
+    <strong>Xunzhi Xiang</strong>, Qi Fan.
+    [<a href="https://arxiv.org/abs/2506.18226">paper</a>]
+  </li>
 
-[TeleWorld: Towards Dynamic Multimodal Synthesis with a 4D World Mode](https://arxiv.org/abs/2601.00051)
+  <li>
+    <span class="badge-arxiv">AAAI 2025</span>
+    <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32932" class="paper-title">
+    ReMask-Animate: Refined Character Image Animation Using Mask-Guided Adapters</a>.
+    <strong>Xunzhi Xiang</strong>, Haiwei Xue, Zonghong Dai, Di Wang, Minglei Li, Ye Yue, Fei Ma, Weijiang Yu, Heng Chang, Fei Richard Yu.
+    [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/32932">paper</a>]
+  </li>
 
-TeleWorld Team.
+  <li>
+    <span class="badge-arxiv">AISTATS 2025</span>
+    <a href="https://proceedings.mlr.press/v238/xiang24a.html" class="paper-title">
+    A Neural Architecture Predictor based on GNN-Enhanced Transformer</a>.
+    <strong>Xunzhi Xiang</strong>, Kun Jing, Jungang Xu.
+    [<a href="https://proceedings.mlr.press/v238/xiang24a.html">paper</a>]
+  </li>
 
-[**Paper**](https://arxiv.org/abs/2601.00051) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/DenoisingVAE.jpg' alt="sym" width="90%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Denoising Vision Transformer Autoencoder with Spectral Regularization](https://arxiv.org/abs/2511.12633)
-
-**Xunzhi Xiang**, Xingye Tian, Guiyu Zhang, Yabo Chen, Shaofeng Zhang, Xuebo Wang, Xin Tao, Qi Fan.
-
-[**Paper**](https://arxiv.org/abs/2511.12633) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/MMPL.jpg' alt="sym" width="90%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Macro-from-Micro Planning for High-Quality and Parallelized Autoregressive Long Video Generation](https://nju-xunzhixiang.github.io/Anchor-Forcing-Page/)
-
-**Xunzhi Xiang**, Yabo Chen, Guiyu Zhang, Zhongyu Wang, Zhe Gao, Quanming Xiang, Gonghu Shang, Junqi Liu, Haibin Huang, Yang Gao, Chi Zhang, Qi Fan, et al. 
-
-[**Paper**](https://arxiv.org/abs/2508.03334) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'>
-[**Project**](https://nju-xunzhixiang.github.io/Anchor-Forcing-Page/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/makeit.jpg' alt="sym" width="90%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Make It Efficient: Dynamic Sparse Attention for Autoregressive Image Generation](https://arxiv.org/abs/2506.18226)
-
-**Xunzhi Xiang**, Qi Fan.
-
-[**Paper**](https://arxiv.org/abs/2506.18226) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/remask.jpg' alt="sym" width="90%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[ReMask-Animate: Refined Character Image Animation Using Mask-Guided Adapters](https://ojs.aaai.org/index.php/AAAI/article/view/32932)
-
-**Xunzhi Xiang**, Haiwei Xue, Zonghong Dai, Di Wang, Minglei Li, Ye Yue, Fei Ma, Weijiang Yu, Heng Chang, Fei Richard Yu.
-
-[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/32932) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AISTATS 2025</div><img src='images/gnet.jpg' alt="sym" width="90%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[A Neural Architecture Predictor based on GNN-Enhanced Transformer](https://proceedings.mlr.press/v238/xiang24a.html)
-
-**Xunzhi Xiang**, Kun Jing, Jungang Xu.
-
-[**Paper**](https://proceedings.mlr.press/v238/xiang24a.html) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-</div>
-</div>
-
+</ul>
 
 # 🔥 Publications/Preprints - participating contribution
 <ul class="paper-list">
