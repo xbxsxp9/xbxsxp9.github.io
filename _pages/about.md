@@ -168,26 +168,58 @@ Junyuan Ma, **Xunzhi Xiang**, Wenbin Li, Yang Gao, Qi Fan.
 <ul class="paper-list">
 
   <li>
-    <span class="badge-neurips">NeurIPS 2025</span>
+    <span class="badge-arxiv">CVPR 2026</span>
+    <a href="https://xbxsxp9.github.io/" class="paper-title">
+    HERA: Efficient Test-Time Adaptation for Cross-Domain Few-Shot Segmentation with Vision Foundation Models</a>.
+    Junyuan Ma, <strong>Xunzhi Xiang</strong>, Wenbin Li, Yang Gao, Qi Fan.
+    [<a href="https://xbxsxp9.github.io/">paper</a>]
+  </li>
+
+  <li>
+    <span class="badge-arxiv">CVPR 2026</span>
+    <a href="https://xbxsxp9.github.io/" class="paper-title">
+    SymphoMotion: Joint Control of Camera Motion and Object Dynamics for Coherent Video Generation</a>.
+    Guiyu Zhang, Yabo Chen, <strong>Xunzhi Xiang</strong>, Junchao Huang, Zhongyu Wang, Li Jiang.
+    [<a href="https://xbxsxp9.github.io/">paper</a>]
+  </li>
+
+  <li>
+    <span class="badge-arxiv">ICLR 2026 Poster</span>
+    <a href="#" class="paper-title">
+    Retain and Adapt: Auto-Balanced Model Editing for Open-Vocabulary Object Detection under Domain Shifts</a>.
+    Zixuan Duan, Fengyuan Lu, <strong>Xunzhi Xiang</strong>, Wenbin Li, Yang Gao, Qi Fan.
+    [<a href="#">paper</a>]
+  </li>
+
+  <li>
+    <span class="badge-arxiv">ICLR 2026 Poster</span>
+    <a href="#" class="paper-title">
+    QPrompt-R1: Real-Time Reasoning for Domain-Generalized Semantic Segmentation via Group-Relative Query Alignment</a>.
+    Fengyuan Lu, Zixuan Duan, <strong>Xunzhi Xiang</strong>, Zhicheng Zhang, Wenbin Li, Yang Gao, Qi Fan.
+    [<a href="#">paper</a>]
+  </li>
+
+  <li>
+    <span class="badge-arxiv">NeurIPS 2025</span>
     <a href="https://neurips.cc/virtual/2025/poster/119868" class="paper-title">
-    DON’T NEED RETRAINING: A Mixture of DETR and Vision Foundation Models for Cross-Domain Few-Shot Object Detection</a>. 
+    DON’T NEED RETRAINING: A Mixture of DETR and Vision Foundation Models for Cross-Domain Few-Shot Object Detection</a>.
     Chang-han Liu, <strong>Xunzhi Xiang</strong>, Zixuan Duan, Wenbin Li, Yang Gao, Qi Fan.
     [<a href="https://neurips.cc/virtual/2025/poster/119868">paper</a>]
   </li>
 
   <li>
-    <span class="badge-siggraph">SIGGRAPH 2025</span>
+    <span class="badge-arxiv">SIGGRAPH 2025</span>
     <a href="https://arxiv.org/abs/2506.23729" class="paper-title">
-    Proteus-ID: ID-Consistent and Motion-Enhanced Video Customization</a>. 
+    Proteus-ID: ID-Consistent and Motion-Enhanced Video Customization</a>.
     Guiyu Zhang, Chen Shi, Zijian Jiang, <strong>Xunzhi Xiang</strong>, Jingjing Qian, Shaoshuai Shi, Li Jiang.
     [<a href="https://arxiv.org/abs/2506.23729">paper</a>]
     [<a href="https://grenoble-zhang.github.io/Proteus-ID/">project</a>]
   </li>
 
   <li>
-    <span class="badge-journal">TPAMI 2025</span>
+    <span class="badge-arxiv">TPAMI 2025</span>
     <a href="https://arxiv.org/pdf/2509.03883" class="paper-title">
-    Human Motion Video Generation: A Survey</a>. 
+    Human Motion Video Generation: A Survey</a>.
     Haiwei Xue, Xiangyang Luo, Zhanghao Hu, Xin Zhang, <strong>Xunzhi Xiang</strong>, Yuqing Dai, Jianzhuang Liu, Zhensong Zhang, Minglei Li, Jian Yang, Fei Ma, Changpeng Yang, Zonghong Dai, Fei Richard Yu.
     [<a href="https://arxiv.org/pdf/2509.03883">paper</a>]
   </li>
@@ -195,16 +227,8 @@ Junyuan Ma, **Xunzhi Xiang**, Wenbin Li, Yang Gao, Qi Fan.
   <li>
     <span class="badge-arxiv">ArXiv 2025</span>
     <a href="https://xbxsxp9.github.io/" class="paper-title">
-    SmartSAM: Segment Ambiguous Objects like Smart Annotators</a>. 
+    SmartSAM: Segment Ambiguous Objects like Smart Annotators</a>.
     Zhe Gao, Shiyu Shen, <strong>Xunzhi Xiang</strong>, Wenbin Li, Yang Gao, Qi Fan.
-    [<a href="https://xbxsxp9.github.io/">paper</a>]
-  </li>
-
-  <li>
-    <span class="badge-arxiv">ArXiv 2025</span>
-    <a href="https://xbxsxp9.github.io/" class="paper-title">
-    HERA: Efficient Test-Time Adaptation for Cross-Domain Few-Shot Segmentation with Vision Foundation Models</a>. 
-    Junyuan Ma, <strong>Xunzhi Xiang</strong>, Wenbin Li, Yang Gao, Qi Fan.
     [<a href="https://xbxsxp9.github.io/">paper</a>]
   </li>
 
