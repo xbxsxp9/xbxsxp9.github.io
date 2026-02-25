@@ -165,6 +165,16 @@ Junyuan Ma, **Xunzhi Xiang**, Wenbin Li, Yang Gao, Qi Fan.
 </div>
 </div>
 
+<ul class="paper-list">
+  <li>
+    <span class="badge-arxiv">ArXiv</span> 
+    <a href="你的链接" class="paper-title">ComfyUI-R1: Exploring Reasoning Models for Workflow Generation</a>. 
+    Zhenran Xu, <strong>Yiyu Wang</strong>, Xue Yang, Longyue Wang, Weihua Luo, Kaifu Zhang, Baotian Hu, Min Zhang. 
+    <span class="venue">arXiv preprint: abs/2506.09790</span>, 2025
+  </li>
+  
+  </ul>
+
 # 🎖 Honors and Awards
 - *2021.10* CCF-BDCI award. 
 
