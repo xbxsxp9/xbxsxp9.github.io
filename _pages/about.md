@@ -36,6 +36,8 @@ My research interests lie in the intersection of ***Computer Vision and Machine 
     <strong>Xunzhi Xiang</strong>, Zixuan Duan, Guiyu Zhang, Haiyu Zhang, Zhe Gao, Junta Wu, Shaofeng Zhang, Tengfei Wang, Qi Fan, Chunchao Guo.
     [<a href="https://arxiv.org/abs/2602.05871">paper</a>]
     [<a href="https://ttc-1231.github.io/">project</a>]
+    [<a href="https://github.com/xbxsxp9/Pathwise_TTC/">project</a>]
+
   </li>
 
   <li>
@@ -61,6 +63,7 @@ My research interests lie in the intersection of ***Computer Vision and Machine 
     <strong>Xunzhi Xiang</strong>, Yabo Chen, Guiyu Zhang, Zhongyu Wang, Zhe Gao, Quanming Xiang, Gonghu Shang, Junqi Liu, Haibin Huang, Yang Gao, Chi Zhang, Qi Fan, et al.
     [<a href="https://arxiv.org/abs/2508.03334">paper</a>]
     [<a href="https://nju-xunzhixiang.github.io/Anchor-Forcing-Page/">project</a>]
+    [<a href="https://github.com/Tele-AI/MMPL">project</a>]
   </li>
 
   <li>
