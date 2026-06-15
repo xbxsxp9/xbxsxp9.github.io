@@ -32,11 +32,10 @@ My research interests lie in the intersection of ***Computer Vision and Machine 
   <li>
     <span class="badge-arxiv">ArXiv 2026</span>
     <a href="https://arxiv.org/abs/2602.05871" class="paper-title">
-    GeoDistill: Unlocking World Consistency in Video Generation Models via Joint Geometry-Video Score Distillation</a>.
+    VideoWeave: Unlocking Geometric Consistency in Video Generation via Joint Geometry-Video Modeling</a>.
     <strong>Xunzhi Xiang</strong>, Zixuan Duan, Yabo Chen, Zhengxuan Wei, Guiyu Zhang, Zhe Gao, Haibin Huang, Chi Zhang, Qi Fan, Xuelong Li.
-    [<a href="https://arxiv.org/abs/2602.05871">paper</a>]
-    [<a href="https://ttc-1231.github.io/">project</a>]
-    [<a href="https://github.com/xbxsxp9/Pathwise_TTC/">code</a>]
+    [<a href="https://arxiv.org/abs/2606.14162">paper</a>]
+    [<a href="https://videoweave.github.io/">project</a>]
 
   </li>
 
