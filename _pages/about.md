@@ -51,7 +51,7 @@ My research interests lie in the intersection of ***Computer Vision and Machine 
   </li>
 
   <li>
-    <span class="badge-arxiv">ArXiv 2026</span>
+    <span class="badge-arxiv">ECCV 2026</span>
     <a href="https://arxiv.org/abs/2602.05871" class="paper-title">
     Pathwise Test-Time Correction for Autoregressive Long Video Generation</a>.
     <strong>Xunzhi Xiang</strong>, Zixuan Duan, Guiyu Zhang, Haiyu Zhang, Zhe Gao, Junta Wu, Shaofeng Zhang, Tengfei Wang, Qi Fan, Chunchao Guo.
